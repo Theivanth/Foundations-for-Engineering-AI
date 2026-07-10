@@ -1,0 +1,17 @@
+{
+  "model_type": "RandomForestClassifier",
+  "features": [
+    "Temperature",
+    "Vibration",
+    "Pressure",
+    "RPM",
+    "Current",
+    "OperatingHours"
+  ],
+  "classes": [
+    "Critical",
+    "Normal",
+    "Warning"
+  ],
+  "random_state": 42
+}

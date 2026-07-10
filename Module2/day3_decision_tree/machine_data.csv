@@ -1,0 +1,11 @@
+Temperature,Vibration,Pressure,RPM,Status 
+60,2.5,30,1500,Normal 
+65,3.0,32,1600,Normal 
+70,4.5,35,1700,Warning 
+75,5.0,36,1800,Warning 
+80,7.0,38,1900,Critical 
+85,8.5,40,2000,Critical 
+68,3.5,33,1650,Normal 
+72,4.8,34,1750,Warning 
+88,9.0,42,2100,Critical 
+78,6.5,37,1850,Warning 

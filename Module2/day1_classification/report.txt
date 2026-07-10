@@ -1,0 +1,16 @@
+
+================ AQI REPORT ================
+
+Total Days : 31
+
+Maximum AQI : 454
+
+Location : Anand Vihar
+
+Safe Days : 0
+
+Moderate Days : 0
+
+Dangerous Days : 31
+
+============================================
