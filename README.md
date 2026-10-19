@@ -1,9 +1,10 @@
 # Foundations for Engineering AI
 
-This repository contains a collection of environmental AI and machine learning projects organized into two main modules:
+This repository contains a collection of environmental AI and machine learning projects organized into three modules:
 
 - `Module1/` - foundational data science tasks using NumPy, Pandas, preprocessing, visualization, and machine learning pipelines.
 - `Module2/` - classification and predictive modeling exercises using logistic regression, decision trees, random forests, and K-Nearest Neighbors.
+- `module3/` - neural network fundamentals, computer vision with CNNs, and pedestrian detection.
 
 Each subfolder contains a standalone project with its own dataset, scripts, and `requirements.txt` file.
 
@@ -21,6 +22,10 @@ Each subfolder contains a standalone project with its own dataset, scripts, and 
 - `Module2/day3_decision_tree/` - Decision tree training, prediction, and visualization.
 - `Module2/day4_random_forest/` - Random forest training, evaluation, and scoring.
 - `Module2/day5_knn_water_quality/` - KNN water quality classification and tuning.
+
+- `module3/day1_neural_network_fundamentals/` - Sensor-based equipment health classification with logistic regression and a PyTorch neural network.
+- `module3/day2_computer_vision_CNNs/` - Casting defect classification with a convolutional neural network.
+- `module3/day3_pedestrian_detection/` - Pedestrian detection and counting with pretrained and custom object detectors.
 
 ## Getting Started
 

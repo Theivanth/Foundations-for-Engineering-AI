@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/xpu
+
+torch==2.14.1+xpu
+torchvision==0.29.1+xpu
+numpy>=2.0
+Pillow>=10.0
+scikit-learn>=1.5
+kagglehub>=0.3
