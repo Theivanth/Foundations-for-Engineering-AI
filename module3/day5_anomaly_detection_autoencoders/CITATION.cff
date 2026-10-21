@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as follows."
+title: "Industrial Sensor Anomaly Detection with Autoencoders"
+type: software
+authors:
+  - name: Theivanth
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
