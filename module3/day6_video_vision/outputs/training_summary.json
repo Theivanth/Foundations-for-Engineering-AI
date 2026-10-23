@@ -1,0 +1,34 @@
+{
+  "model": "YOLO11 nano fine-tuned for office-supplies object detection",
+  "dataset": {
+    "ref": "immanuel0405/python-object-detection-dataset-office-supplies",
+    "license": "CC BY-NC-SA 4.0 (non-commercial use)"
+  },
+  "classes": [
+    "office_supplies_tape_dispenser",
+    "office_supplies_highlighter",
+    "office_supplies_glue_stick",
+    "office_supplies_pen",
+    "office_supplies_scissors",
+    "office_supplies_protractor",
+    "office_supplies_correction_tape"
+  ],
+  "training_data": {
+    "class_count": 7,
+    "image_counts": {
+      "train": 50,
+      "val": 45,
+      "test": 30
+    },
+    "box_counts": {
+      "train": 97,
+      "val": 138,
+      "test": 210
+    }
+  },
+  "max_train_images": 50,
+  "epochs": 20,
+  "gpu": "Tesla T4",
+  "map50": 0.7659042887977129,
+  "map50_95": 0.5995673947995037
+}

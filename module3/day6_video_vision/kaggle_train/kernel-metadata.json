@@ -1,0 +1,17 @@
+{
+  "id": "theivanth/mle1003-office-supplies-detection-50-images",
+  "title": "MLE1003 Office Supplies Detection - 50 Images",
+  "code_file": "train.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "immanuel0405/python-object-detection-dataset-office-supplies"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
